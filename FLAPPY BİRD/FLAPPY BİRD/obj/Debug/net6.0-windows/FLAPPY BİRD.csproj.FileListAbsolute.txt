@@ -1,0 +1,17 @@
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\bin\Debug\net6.0-windows\FLAPPY BİRD.exe
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\bin\Debug\net6.0-windows\FLAPPY BİRD.deps.json
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\bin\Debug\net6.0-windows\FLAPPY BİRD.runtimeconfig.json
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\bin\Debug\net6.0-windows\FLAPPY BİRD.dll
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\bin\Debug\net6.0-windows\FLAPPY BİRD.pdb
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\FLAPPY_BİRD.Form1.resources
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\FLAPPY_BİRD.Properties.Resources.resources
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\FLAPPY BİRD.csproj.GenerateResource.cache
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\FLAPPY BİRD.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\FLAPPY BİRD.AssemblyInfoInputs.cache
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\FLAPPY BİRD.AssemblyInfo.cs
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\FLAPPY BİRD.csproj.CoreCompileInputs.cache
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\FLAPPY BİRD.dll
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\refint\FLAPPY BİRD.dll
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\FLAPPY BİRD.pdb
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\FLAPPY BİRD.genruntimeconfig.cache
+C:\Users\senai\OneDrive\Masaüstü\PROGRAMLAMA\c# projects\FLAPPY BİRD\FLAPPY BİRD\obj\Debug\net6.0-windows\ref\FLAPPY BİRD.dll
